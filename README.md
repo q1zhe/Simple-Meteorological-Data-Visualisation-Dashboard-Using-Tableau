@@ -1,2 +1,1 @@
-This simple dashboard presents the daily wind data for LGA in 2013 using Tableau Public. All unit conversions and calculations, including daily averages, were done within Tableau
-based on the original dataset ('nycflights13_weather.csv'). The report on how the dashboard was created and the link to view it is also in the repository ('windspeed_report.pdf')
+This simple dashboard presents the daily wind data for LGA (Airport) in 2013 using Tableau Public. All unit conversions and calculations, including daily averages, were done within Tableau based on the original dataset ('nycflights13_weather.csv'). The report on how the dashboard was created and the link to view it is also in the repository ('windspeed_report.pdf')
